@@ -1,3 +1,3 @@
-API de Pessoas
+API CRUD Cadastro de Pessoas
 
-Ainda falta validar cpf e busca, edita e exclui
+
